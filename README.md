@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://dev.to/vumdao">
-    <img alt="Custom CloudWatch Events" src="https://dev-to-uploads.s3.amazonaws.com/i/v31e8t4rtkazjajpbo5q.png" width="500" />
+    <img alt="Custom CloudWatch Events" src="https://dev-to-uploads.s3.amazonaws.com/i/3uswygba3lrhi1sq5oc3.png" width="500" />
   </a>
 </p>
 <h1 align="center">
