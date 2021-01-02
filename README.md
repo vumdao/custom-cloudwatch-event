@@ -15,13 +15,13 @@
 
 
 ## What’s In This Document 
-- [Create cloudwatch event rule](#-Create-cloudwatch-event-rule)
+- [Create custom cloudwatch event rule](#-Create-custom-cloudwatch-event-rule)
 - [Create AWS Systems Manager Document](#-Create-AWS-Systems-Manager-Document)
 - [Update IAM role to run SSM document from cloudwatch](#-Update-IAM-role-to-run-SSM-document-from-cloudwatch)
 - [Put cloudwatch event to test](#-Put-cloudwatch-event-to-test)
 
 
-### 🚀 **[Create cloudwatch event rule](#-Create-cloudwatch-event-rule)**
+### 🚀 **[Create custom cloudwatch event rule](#-Create-custom-cloudwatch-event-rule)**
 - Build custom event pattern
 ```
 {
@@ -148,3 +148,19 @@ my-source my-target
 - [CI/CD Of Invalidation AWS CDN Using Gitlab Pipeline](https://dev.to/vumdao/ci-cd-of-invalidation-aws-cdn-using-gitlab-pipeline-34op)
 - [Create CodeDeploy](https://dev.to/vumdao/create-codedeploy-4425)
 - [Gitlab Pipeline With AWS Codedeploy](https://dev.to/vumdao/gitlab-pipeline-with-aws-codedeploy-30cl)
+- [Create AWS-CDK image container](https://dev.to/vumdao/create-aws-cdk-image-container-43ei)
+- [Deploy Python Lambda Functions With Container Image](https://dev.to/vumdao/deploy-python-lambda-functions-with-container-image-5hgj)
+
+<h3 align="center">
+  <a href="https://dev.to/vumdao">:stars: Blog</a>
+  <span> · </span>
+  <a href="https://vumdao.hashnode.dev/">Web</a>
+  <span> · </span>
+  <a href="https://www.linkedin.com/in/vu-dao-9280ab43/">Linkedin</a>
+  <span> · </span>
+  <a href="https://www.linkedin.com/groups/12488649/">Group</a>
+  <span> · </span>
+  <a href="https://www.facebook.com/CloudOpz-104917804863956">Page</a>
+  <span> · </span>
+  <a href="https://twitter.com/VuDao81124667">Twitter :stars:</a>
+</h3>
